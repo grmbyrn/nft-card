@@ -18,7 +18,7 @@ body{
     margin-top: 5rem;
     margin-bottom: 5rem;
     border-radius: 10px;
-    padding: 2.5rem 2rem 2.5rem 2rem;
+    padding: 1.5rem 1.5rem 1.5rem 1.5rem;
     box-shadow: 1rem 2.5rem 2.5rem hsl(218, 54%, 9%), -1rem 2.5rem 2.5rem hsl(218, 54%, 9%), 3rem 4rem hsl(216, 54%, 11%), -3rem -4rem hsl(216, 54%, 11%);
 }
 
